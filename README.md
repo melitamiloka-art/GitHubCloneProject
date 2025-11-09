@@ -1,1 +1,2 @@
-Objective: Practice creating branches, merging and resolving conflicts in Git.
+# GitHubCloneProject
+Objective: Practice branching, merging, and resolving conflicts in Git.
